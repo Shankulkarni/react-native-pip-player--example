@@ -1,0 +1,25 @@
+{
+  "name": "react-native-pip-player--example",
+  "description": "Example app for react-native-pip-player",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "react": "17.0.2",
+    "react-native": "^0.68.1",
+    "react-native-device-info": "^8.7.0",
+    "react-native-gesture-handler": "^2.4.0",
+    "react-native-reanimated": "^2.7.0",
+    "react-native-video": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/runtime": "7.0.0-beta.55",
+    "babel-plugin-module-resolver": "^4.0.0",
+    "metro-react-native-babel-preset": "^0.67.0"
+  }
+}
